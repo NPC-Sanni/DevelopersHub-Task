@@ -36,8 +36,6 @@ Petal features clearly differentiate flower species.
   * Accuracy
   * Confusion Matrix
 
-📊 **Key Insight:**
-Factors like **income, loan amount, and credit history** strongly influence loan approval.
 
 ---
 
@@ -68,39 +66,11 @@ Customer churn is highly influenced by **age, balance, and geography**.
 
 ---
 
-# 📁 Project Structure
 
-```
-📦 Data-Science-Internship-Tasks
- ┣ 📜 Task1_Iris_Visualization.ipynb
- ┣ 📜 Task2_Credit_Risk.ipynb
- ┣ 📜 Task3_Customer_Churn.ipynb
- ┣ 📜 loan.csv
- ┣ 📜 Churn_Modelling.csv
- ┗ 📜 README.md
-```
 
 ---
 
-# 🚀 How to Run
 
-## ▶️ Option 1: Google Colab (Recommended)
-
-1. Open notebooks in Google Colab
-2. Upload datasets (`loan.csv`, `Churn_Modelling.csv`)
-3. Run all cells
-
-## ▶️ Option 2: Local Jupyter Notebook
-
-1. Install dependencies:
-
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
-   ```
-2. Place datasets in same folder
-3. Run notebooks
-
----
 
 # 📈 Evaluation Metrics Used
 
